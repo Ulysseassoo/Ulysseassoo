@@ -13,9 +13,7 @@
 ### WakaTime Stats (Coding Activity per language):
 
 <div>
-    <a href="https://wakatime.com/@144f7528-f98a-4ef5-84b3-a3df4de010ce">
         <img width="600px" src="https://github.com/Ulysseassoo/Ulysseassoo/blob/master/images/stat.svg" alt="Ulysse WakaTime Activity"/>
-    </a>
 </div>
 
 [website]: https://www.ulysse-asso-o.fr/
