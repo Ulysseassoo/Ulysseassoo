@@ -12,10 +12,10 @@
 
 ### WakaTime Stats (Coding Activity per language):
 
-<p>
+<div>
     <a href="https://wakatime.com/@144f7528-f98a-4ef5-84b3-a3df4de010ce">
-        <figure width="600px"><embed src="https://wakatime.com/share/@144f7528-f98a-4ef5-84b3-a3df4de010ce/1756ae32-aa90-4b96-9595-8512fda2de80.svg"></embed></figure>
+        <img src="https://github.com/<Ulysseassoo>/<Ulysseassoo>/blob/<branch-name>/images/stat.svg" alt="Ulysse WakaTime Activity"/>
     </a>
-</p>
+</div>
 
 [website]: https://www.ulysse-asso-o.fr/
