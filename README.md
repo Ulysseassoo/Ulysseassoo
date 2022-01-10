@@ -25,9 +25,9 @@
 
 <br>
 
-## Technologies That I Use !! ⚡
+## Technologies that I actually use ! 🔥
 
-Below is an overview of the tools and technologies I usually utilize for personal projects or in a professional context, hoping that this list will grow with time 😉.
+Below is an overview of the tools and technologies I usually use for my personal projects. This list will grow with time as I learn more technologies. Hopefully 😄 !
 
 ### Front-End Languages
 
