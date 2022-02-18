@@ -50,4 +50,11 @@ Below is an overview of the tools and technologies I usually use for my personal
         <img width="600px" src="https://github.com/Ulysseassoo/Ulysseassoo/blob/master/images/stat.svg" alt="Ulysse WakaTime Activity"/>
 </div>
 
+<br />
+<br />
+
+### Github Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulysseassoo&show_icons=true&theme=radical)
+
 [website]: https://www.ulysse-asso-o.fr/
