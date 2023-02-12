@@ -24,7 +24,7 @@
 
 ## [Portfolio][website]
 
-<a href="https://www.ulysse-asso-o.fr/" target="__blank">
+<a href="https://www.ulysse-asso-o.fr/" target="_blank">
   <img alt="Portfolio website" src="https://user-images.githubusercontent.com/73486687/218328251-1477a38b-76ec-4939-bbcd-4d36bbd3bd8f.png" />
 </a>
 
