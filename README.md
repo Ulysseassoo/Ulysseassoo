@@ -15,13 +15,18 @@
 
 ## Want to know what i'm doing ?
 
-- 🚧 Currently learning React
+- 🚧 Currently learning Next Js
 - 💻 Looking forward to start/contribute to open source projects
+- 🔥 Create more exciting projects
 - 📚 Watching the latest animes or reading
 
 ### Want to check up on me ? 👇:
 
-[Portfolio][website]
+## [Portfolio][website]
+
+<a href="https://www.ulysse-asso-o.fr/" target="__blank">
+  <img alt="Portfolio website" src="https://user-images.githubusercontent.com/73486687/218328251-1477a38b-76ec-4939-bbcd-4d36bbd3bd8f.png" />
+</a>
 
 <br>
 
@@ -39,7 +44,13 @@ Below is an overview of the tools and technologies I usually use for my personal
 
 ---
 
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&color=ffffff) ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=nodedotjs&color=ffffff) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&color=ffffff) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=eb3b5a&color=ffffff)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&color=ffffff) ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=nodedotjs&color=ffffff) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&color=ffffff) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=eb3b5a&color=ffffff) ![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=eb3b5a&color=ffffff)
+
+### Mobile Languages
+
+---
+
+![REACTNATIVE](https://img.shields.io/badge/ReactNative-black?style=for-the-badge&logo=react&color=ffffff) ![Expo](https://img.shields.io/badge/-EXPO-black?style=for-the-badge&logo=expo&color=ffffff)
 
 <br />
 <br />
