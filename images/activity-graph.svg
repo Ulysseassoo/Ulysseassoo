@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-label="Activité GitHub sur 31 jours">
+  <rect width="840" height="300" rx="8" fill="#1a1b27"/>
+  <text x="24" y="36" fill="#9aa5ce" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="600">Activité GitHub</text>
+  <text x="816" y="36" text-anchor="end" fill="#565f89" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">31 derniers jours</text>
+
+  <g stroke="#3b4261" stroke-width="1">
+    <line x1="48" y1="68" x2="816" y2="68"/>
+    <line x1="48" y1="128" x2="816" y2="128"/>
+    <line x1="48" y1="188" x2="816" y2="188"/>
+    <line x1="48" y1="248" x2="816" y2="248"/>
+  </g>
+  <text x="40" y="72" text-anchor="end" fill="#565f89" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">118</text>
+  <text x="40" y="132" text-anchor="end" fill="#565f89" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">79</text>
+  <text x="40" y="192" text-anchor="end" fill="#565f89" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">39</text>
+  <text x="40" y="252" text-anchor="end" fill="#565f89" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">0</text>
+
+  <defs>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <path fill="url(#area)" d="M48,248 L48,248 L73.6,248 L99.2,248 L124.8,244.6 L150.4,248 L176,244.6 L201.6,248 L227.2,248 L252.8,248 L278.4,248 L304,246.3 L329.6,246.3 L355.2,246.3 L380.8,244.6 L406.4,248 L432,248 L457.6,239.5 L483.2,248 L508.8,231.1 L534.4,248 L560,237.8 L585.6,248 L611.2,248 L636.8,239.5 L662.4,239.5 L688,229.4 L713.6,232.8 L739.2,48 L764.8,204 L790.4,127.6 L816,239.5 L816,248 Z"/>
+  <path fill="none" stroke="#7aa2f7" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" d="M48,248 L73.6,248 L99.2,248 L124.8,244.6 L150.4,248 L176,244.6 L201.6,248 L227.2,248 L252.8,248 L278.4,248 L304,246.3 L329.6,246.3 L355.2,246.3 L380.8,244.6 L406.4,248 L432,248 L457.6,239.5 L483.2,248 L508.8,231.1 L534.4,248 L560,237.8 L585.6,248 L611.2,248 L636.8,239.5 L662.4,239.5 L688,229.4 L713.6,232.8 L739.2,48 L764.8,204 L790.4,127.6 L816,239.5"/>
+
+  <circle cx="739.2" cy="48" r="4.5" fill="#bb9af7"/>
+  <circle cx="764.8" cy="204" r="3.5" fill="#7aa2f7"/>
+  <circle cx="790.4" cy="127.6" r="3.5" fill="#7aa2f7"/>
+  <circle cx="508.8" cy="231.1" r="3.5" fill="#7aa2f7"/>
+
+  <text x="48" y="278" fill="#565f89" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">19 sept.</text>
+  <text x="432" y="278" text-anchor="middle" fill="#565f89" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">4 oct.</text>
+  <text x="816" y="278" text-anchor="end" fill="#565f89" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">19 oct.</text>
+</svg>

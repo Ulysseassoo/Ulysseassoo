@@ -1,71 +1,91 @@
-### Hi There ! Ulysse's here aka [SomeoneWhoLovesJavaScript][website]
+### Salut, je suis Ulysse 👋
+
+**Développeur fullstack & agentique.**  
+J’aime concevoir des produits web et mobiles en TypeScript — React, Next.js, NestJS — avec une architecture propre, une UX soignée, et des agents IA dans la boucle de delivery.
+
+Je construis de bout en bout : cadrer le besoin, faire travailler des agents (Claude, Cursor) dans un cadre clair, revoir, tester, livrer. L’IA n’est pas un gadget : c’est un levier pour aller plus vite sans lâcher la qualité.
 
 <p align="center">
-  <a href="https://github.com/Ulysseassoo" alt="GitHub Link">
-      <img alt="Custom badge" src="https://img.shields.io/static/v1?message=GITHUB&label=&logo=GITHUB&style=for-the-badge&color=161B22">
+  <a href="https://www.ulysse-asso-o.fr/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ulysse--asso--o.fr-161B22?style=for-the-badge&logo=safari&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/ulysse-asso-o/" alt="LinkedIn Link">
-    <img alt="Custom badge" src="https://img.shields.io/static/v1?message=LINKEDIN&label=&logo=LINKEDIN&style=for-the-badge&color=0A66C2">
+  <a href="https://github.com/Ulysseassoo">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ulysseassoo-161B22?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="mailto:assooulysse@gmail.com" alt="Mail Link">
-    <img alt="Custom badge" src="https://img.shields.io/static/v1?message=Contact Me&label=&logo=gmail&logoColor=FFFFFF&style=for-the-badge&color=EA4335">
+  <a href="https://www.linkedin.com/in/ulysse-asso-o/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ulysse--asso--o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:assooulysse@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Contact-assooulysse@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-<br />
-
-## Want to know what i'm doing ?
-
-- 🚧 Currently learning Next Js
-- 💻 Looking forward to start/contribute to open source projects
-- 🔥 Create more exciting projects
-- 📚 Watching the latest animes or reading
-
-### Want to check up on me ? 👇:
-
-## [Portfolio][website]
-
-<a href="https://www.ulysse-asso-o.fr/" target="_blank">
-  <img alt="Portfolio website" src="https://user-images.githubusercontent.com/73486687/218328251-1477a38b-76ec-4939-bbcd-4d36bbd3bd8f.png" />
-</a>
-
-<br>
-
-## Technologies that I actually use ! 🔥
-
-Below is an overview of the tools and technologies I usually use for my personal projects. This list will grow with time as I learn more technologies. Hopefully 😄 !
-
-### Front-End Languages
 
 ---
 
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&color=ffffff) ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=2bcbba&color=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&color=ffffff) ![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=2bcbba&color=ffffff) ![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress&logoColor=2bcbba&color=ffffff) ![ReactJS](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react&color=ffffff)
+## Ce que j’aime faire
 
-### Back-End Languages
-
----
-
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&color=ffffff) ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=nodedotjs&color=ffffff) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&color=ffffff) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=eb3b5a&color=ffffff) ![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=eb3b5a&color=ffffff)
-
-### Mobile Languages
+- 🧩 Des apps fullstack modernes, maintenables, pensées produit
+- 🤖 Du **développement agentique** : agents, specs, itérations rapides, code revu
+- 🧱 De l’architecture (Clean Architecture, APIs NestJS, perf)
+- 📱 Du mobile avec React Native / Expo
+- 🚀 Des produits perso, dont **[Candinow](https://www.candinow.com)**
 
 ---
 
-![REACTNATIVE](https://img.shields.io/badge/ReactNative-black?style=for-the-badge&logo=react&color=ffffff) ![Expo](https://img.shields.io/badge/-EXPO-black?style=for-the-badge&logo=expo&color=ffffff)
+## Projets
 
-<br />
-<br />
+### [Candinow](https://www.candinow.com)
+Tracker de candidatures **offline-first** et privacy-first : relances automatiques, dashboard, PWA installable. Les données restent sur l’appareil.
 
-### WakaTime Stats (Coding Activity per language):
+`React 19` `TypeScript` `TanStack Router` `Zustand` `Tailwind` `Vite` `PWA`
 
-<div>
-        <img width="600px" src="https://github.com/Ulysseassoo/Ulysseassoo/blob/master/images/stat.svg" alt="Ulysse WakaTime Activity"/>
-</div>
+[Voir l’app](https://www.candinow.com) · [Code](https://github.com/Ulysseassoo/candinow)
 
-<br />
-<br />
+[![Candinow](https://github-readme-stats.vercel.app/api/pin/?username=Ulysseassoo&repo=candinow&theme=tokyonight&hide_border=true)](https://github.com/Ulysseassoo/candinow)
 
-### Github Stats
+### [ChatMore](https://github.com/Ulysseassoo/ChatMore)
+Messagerie web type WhatsApp : auth, realtime, profils, images. Aussi en [mobile](https://github.com/Ulysseassoo/Chatmore_Mobile).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulysseassoo&show_icons=true&theme=radical)
+`React` `TypeScript` `Supabase` `Zustand` `React Native`
 
-[website]: https://www.ulysse-asso-o.fr/
+[Démo](https://chat-more-psi.vercel.app) · [Web](https://github.com/Ulysseassoo/ChatMore) · [Mobile](https://github.com/Ulysseassoo/Chatmore_Mobile)
+
+[![ChatMore](https://github-readme-stats.vercel.app/api/pin/?username=Ulysseassoo&repo=ChatMore&theme=tokyonight&hide_border=true)](https://github.com/Ulysseassoo/ChatMore)
+
+Le reste est sur [ulysse-asso-o.fr](https://www.ulysse-asso-o.fr/).
+
+---
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,nestjs,express,postgres,mongodb,redis,supabase,docker,aws,git,ai" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Redux, Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis, Supabase, Docker, AWS, Git, IA">
+</p>
+
+**Front** — React, Next.js, TypeScript, Tailwind CSS, TanStack Query, Redux, Framer Motion  
+**Back** — Node.js, NestJS, Express, AWS Lambda  
+**Data** — PostgreSQL, MongoDB, Redis, Supabase  
+**Mobile** — React Native, Expo  
+**IA** — Claude, Cursor, workflows agentiques, intégration d’IA dans les produits  
+**Outils** — Docker, Git, Figma, Stripe, Auth0
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ulysseassoo&theme=tokyonight&hide_border=true&locale=fr" alt="Contributions totales et séries GitHub">
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ulysseassoo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=fr&show=reviews,prs_merged" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulysseassoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=fr" alt="Langages les plus utilisés">
+</p>
+
+<p align="center">
+  <img src="./images/activity-graph.svg" alt="Graphe d'activité GitHub" width="840">
+</p>
+
+---
+
+Ouvert aux échanges — [portfolio](https://www.ulysse-asso-o.fr/) · [LinkedIn](https://www.linkedin.com/in/ulysse-asso-o/) · [assooulysse@gmail.com](mailto:assooulysse@gmail.com)
